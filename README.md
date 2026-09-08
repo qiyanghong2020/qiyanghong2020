@@ -1,27 +1,35 @@
 # Hi, I’m Qiyang Hong
 
-I am a biomedical AI researcher with a PhD in Biomedical Engineering. I develop transferable AI/ML methods for biomedical and scientific problems.
+**Biomedical Data Science Researcher | Machine Learning & Multi-omics**
 
-I am open to postdoctoral opportunities in biomedical AI, clinical foundation models, and scientific agents.
+I develop and evaluate machine learning methods for biomedical data, with a focus on disease risk, patient stratification, and disease progression. My work spans large-scale phenotyping, multi-omics analysis, and the evaluation of medical language models. I am particularly interested in learning useful representations from complex biomedical data and assessing how reliably these models perform on medically relevant tasks.
 
-## Research direction
-
-My work spans deep phenotyping, longitudinal and multimodal health data, and AI evaluation. I am particularly interested in clinical foundation models, LLMs, and scientific agents, especially when model performance must be interpreted against explicit evidence and intended-use boundaries.
+I earned my PhD in Biomedical Engineering from Tsinghua University & Peking Union Medical College in June 2026.
 
 ## Selected research
 
 ### [ukbFound](https://github.com/qiyanghong2020/ukbFound)
 
-ukbFound is a 25.3M-parameter foundation model that represents thousands of UK Biobank traits as language-like sequences. The public repository provides research code for disease subgroup stratification, disease-relationship and community discovery, and lifestyle-based risk prediction. Controlled UK Biobank data, participant-level derivatives, vocabularies, results, and model weights are not included.
+Developed and evaluated a machine-learning model using deep phenotyping data from more than 500,000 UK Biobank participants. The work supported disease risk prediction, multimorbidity analysis, and patient stratification across 289 conditions ([npj Digital Medicine, 2026](https://doi.org/10.1038/s41746-026-02736-w)). The public repository provides research code; controlled UK Biobank data, participant-level derivatives, vocabularies, results, and model weights are not included.
+
+### Medical language model evaluation
+
+Contributed to data acquisition, curation, and analysis for evaluating collaborative language models on medical questions and clinical reasoning tasks ([Cell Reports Medicine, 2026](https://doi.org/10.1016/j.xcrm.2025.102547)).
+
+### Multi-omics analysis of disease progression
+
+Contributed to studies integrating genetic, protein, metabolite, and clinical data to investigate COPD, molecular subtypes, and longitudinal lung function decline ([Signal Transduction and Targeted Therapy](https://doi.org/10.1038/s41392-025-02547-7), [Med](https://doi.org/10.1016/j.medj.2026.101033), and [Respiratory Research](https://doi.org/10.1186/s12931-026-03768-2), 2026).
 
 ## Open-source research tools
 
 ### [de-ai-writing](https://github.com/qiyanghong2020/de-ai-writing)
 
-de-ai-writing is an MIT-licensed Agent Skill for evidence-safe editing of Chinese and English academic, medical, and long-form writing. It protects claims, numbers, citations, uncertainty, and author register while checking cross-section repetition and unnecessary structural expansion in longer manuscripts.
+An MIT-licensed writing-editing tool for Chinese and English research documents, designed to preserve claims, numbers, citations, uncertainty, and author intent.
 
 ## Links
 
 - [Personal website](https://qiyanghong2020.github.io/)
+- [CV](https://qiyanghong2020.github.io/uploads/resume.pdf)
+- [LinkedIn](https://www.linkedin.com/in/qiyang-hong-482514126/)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=1PCtyx8AAAAJ&hl=zh-CN)
 - [ORCID](https://orcid.org/0009-0002-2522-3713)
