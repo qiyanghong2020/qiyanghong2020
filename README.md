@@ -29,7 +29,7 @@ An MIT-licensed writing-editing tool for Chinese and English research documents,
 ## Links
 
 - [Personal website](https://qiyanghong2020.github.io/)
-- [CV](https://qiyanghong2020.github.io/uploads/resume.pdf)
+- [CV](https://qiyanghong2020.github.io/uploads/Qiyang_Hong_CV.pdf)
 - [LinkedIn](https://www.linkedin.com/in/qiyang-hong-482514126/)
 - [Google Scholar](https://scholar.google.com.hk/citations?user=1PCtyx8AAAAJ&hl=zh-CN)
 - [ORCID](https://orcid.org/0009-0002-2522-3713)
