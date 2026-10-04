@@ -1,8 +1,8 @@
 # Hi, I’m Qiyang Hong
 
-**Biomedical Data Science Researcher | Machine Learning & Multi-omics**
+**Biomedical AI Researcher | Machine Learning for Disease Risk & Progression**
 
-I develop and evaluate machine learning methods for biomedical data, with a focus on disease risk, patient stratification, and disease progression. My work spans large-scale phenotyping, multi-omics analysis, and the evaluation of medical language models. I am particularly interested in learning useful representations from complex biomedical data and assessing how reliably these models perform on medically relevant tasks.
+I develop and evaluate machine learning methods for biomedical and clinical data, focusing on disease risk prediction, patient stratification, and disease progression. My work spans large-scale phenotyping, multi-omics analysis, and medical language model evaluation.
 
 I earned my PhD in Biomedical Engineering from Tsinghua University & Peking Union Medical College in June 2026.
 
@@ -10,7 +10,7 @@ I earned my PhD in Biomedical Engineering from Tsinghua University & Peking Unio
 
 ### [ukbFound](https://github.com/qiyanghong2020/ukbFound)
 
-Developed and evaluated a machine-learning model using deep phenotyping data from more than 500,000 UK Biobank participants. The work supported disease risk prediction, multimorbidity analysis, and patient stratification across 289 conditions ([npj Digital Medicine, 2026](https://doi.org/10.1038/s41746-026-02736-w)). The public repository provides research code; controlled UK Biobank data, participant-level derivatives, vocabularies, results, and model weights are not included.
+Co-first author; contributed to model development and evaluation using deep phenotyping data from more than 500,000 UK Biobank participants. The study explored disease risk prediction and multimorbidity, and identified distinct patient subgroups in 289 diseases ([npj Digital Medicine, 2026](https://doi.org/10.1038/s41746-026-02736-w)). The public repository provides research code; controlled UK Biobank data, participant-level derivatives, vocabularies, results, and model weights are not included.
 
 ### Medical language model evaluation
 
