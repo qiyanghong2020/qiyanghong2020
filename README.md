@@ -10,7 +10,7 @@ I earned my PhD in Biomedical Engineering from Tsinghua University & Peking Unio
 
 ### [ukbFound](https://github.com/qiyanghong2020/ukbFound)
 
-Co-first author; contributed to model development and evaluation using deep phenotyping data from more than 500,000 UK Biobank participants. The study explored disease risk prediction and multimorbidity, and identified distinct patient subgroups in 289 diseases ([npj Digital Medicine, 2026](https://doi.org/10.1038/s41746-026-02736-w)). The public repository provides research code; controlled UK Biobank data, participant-level derivatives, vocabularies, results, and model weights are not included.
+Co-first author; contributed to model development and evaluation using deep phenotyping data from more than 500,000 UK Biobank participants. The study explored disease risk prediction and multimorbidity, and identified distinct patient subgroups in 289 diseases ([npj Digital Medicine, 2026](https://doi.org/10.1038/s41746-026-02736-w)). Research code is available in the linked repository.
 
 ### Medical language model evaluation
 
