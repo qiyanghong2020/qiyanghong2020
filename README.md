@@ -1,16 +1,16 @@
 # Hi, I’m Qiyang Hong
 
-**Biomedical AI Researcher | Machine Learning for Disease Risk & Progression**
+**Biomedical Data Science Researcher | Machine Learning for Disease Risk & Progression**
 
 I develop and evaluate machine learning methods for biomedical and clinical data, focusing on disease risk prediction, patient stratification, and disease progression. My work spans large-scale phenotyping, multi-omics analysis, and medical language model evaluation.
 
-I earned my PhD in Biomedical Engineering from Tsinghua University & Peking Union Medical College in June 2026.
+I earned my PhD in Biomedical Engineering from Peking Union Medical College in June 2026. The degree certificate bears the signatures of the presidents of Peking Union Medical College and Tsinghua University.
 
-## Selected research
+## Recent research
 
 ### [ukbFound](https://github.com/qiyanghong2020/ukbFound)
 
-Co-first author; contributed to model development and evaluation using deep phenotyping data from more than 500,000 UK Biobank participants. The study explored disease risk prediction and multimorbidity, and identified distinct patient subgroups in 289 diseases ([npj Digital Medicine, 2026](https://doi.org/10.1038/s41746-026-02736-w)). Research code is available in the linked repository.
+Co-first author; independently developed, built, and evaluated ukbFound using deep phenotyping data from more than 500,000 UK Biobank participants. The study explored disease risk prediction and multimorbidity, and identified distinct patient subgroups in 289 diseases ([npj Digital Medicine, 2026](https://doi.org/10.1038/s41746-026-02736-w)). Research code is available in the linked repository.
 
 ### Medical language model evaluation
 
